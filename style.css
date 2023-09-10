@@ -1,0 +1,150 @@
+* {
+    background-color: rgb(0, 0, 23);
+    color: white;
+ }
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+
+.home  {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    left: 300px;
+    color: white;
+}
+
+.text {
+    position: absolute;
+    color: white;
+}
+
+.mercury {
+    position: absolute;
+    margin: 200px;
+    
+}
+
+.mainHr {
+    position: absolute;
+    color: black;
+}
+
+.background-stars {
+    position: absolute;
+    height: 850px;
+    width: 1400px;
+}
+
+.mercury-h1 {
+    position: absolute;
+    margin: 300px 600px;
+    top: 0;
+}
+
+.mercury-p {
+    display: flex;
+    position: absolute;
+    margin: 300px 600px;
+    background-color: rgb(0, 0, 23);
+}
+
+.wikipedia {
+    position: absolute;
+    margin: 500px 600px;
+}
+
+.earth {
+    position: absolute;
+    margin: 200px;
+    height: 300px;
+    
+}
+
+.venus {
+    position: absolute;
+    margin: 200px;
+    height: 300px;
+    
+}
+
+.mars {
+    position: absolute;
+    margin: 200px;
+    height: 300px;
+}
+
+.jupiter {
+    position: absolute;
+    margin: 200px;
+    height: 300px;
+    
+}
+
+.saturn {
+    position: absolute;
+    margin: 200px;
+    height: 300px;
+    
+}
+
+.uranus {
+    position: absolute;
+    margin: 200px;
+    height: 300px;
+    
+}
+
+.neptune {
+    position: absolute;
+    margin: 200px;
+    height: 300px;
+    
+}
+
+.rotation-time {
+    position: absolute;
+    border:  solid rgba(255,255,255,.2);
+    margin: 700px 100px;
+}
+
+.REVOLUTION-TIME  {
+    position: absolute;
+    border:  solid rgba(255,255,255,.2);
+    margin: 700px 250px;
+}
+
+.RADIUS {
+    position: absolute;
+    border:  solid rgba(255,255,255,.2);
+    margin: 700px 430px;
+}
+
+.AVERAGE-TEMP {
+    position: absolute;
+    border:  solid rgba(255,255,255,.2);
+    margin: 700px 575px;
+}
+
+.button-1 {
+    position: absolute;
+    margin: 550px 600px;
+    border:  solid rgba(255,255,255,.2)
+}
+
+.button-2 {
+    position: absolute;
+    margin: 600px 600px;
+    border:  solid rgba(255,255,255,.2)
+}
+
+.button-3 {
+    position: absolute;
+    margin: 650px 600px;
+    border:  solid rgba(255,255,255,.2)
+}
+
+@import url('fonts/league-spartan-v11-latin-regular.woff2') 
